@@ -1,1 +1,5 @@
-![Alt text](./Screenshot html css.png)
+# My Project
+
+Bellow is the screenshot of my project.
+
+![Project Screenshot](./Screenshot html css.png)
