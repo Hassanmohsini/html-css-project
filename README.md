@@ -2,5 +2,6 @@
 
 Bellow is the screenshot of my project.
 
-![Project Screenshot](Screenshot html css.png)
+![Project Screenshot](screenshot-html-css.png)
+
 
